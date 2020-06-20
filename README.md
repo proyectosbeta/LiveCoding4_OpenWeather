@@ -15,5 +15,6 @@ Para poder utilizar el servicio se tiene que crear una cuenta en https://openwea
 ## Documentaciones útiles
 * https://openweathermap.org/
 * https://openweathermap.org/api
+* https://openweathermap.org/weathermap?basemap=map&cities=true&layer=temperature&lat=-25.2871&lon=-57.5406&zoom=5
 * https://leafletjs.com/
 * https://github.com/buche/leaflet-openweathermap
