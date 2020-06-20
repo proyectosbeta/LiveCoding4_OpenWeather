@@ -6,7 +6,8 @@ Es un ejemplo utilizando el servicio de OpenWeather para ver la termeratura de l
 Para poder utilizar el servicio se tiene que crear una cuenta en https://openweathermap.org para obtener un API KEY.
 
 ## Screenhots
-
+![Screenshot](screenshots/Ejemplo1.png)
+![Screenshot](screenshots/Ejemplo2.png)
 
 ## Herramientas de desarrollo
 * Librería de mapas: [Leftlet](https://leafletjs.com/)
